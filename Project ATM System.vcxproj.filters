@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Lib">
+      <UniqueIdentifier>{10070d54-ce2e-4fed-9502-5911cfd5d6d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{928c47c8-877a-4291-b95d-58c8a3d945f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{57495488-8ca7-4d37-895f-72cc702f2073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Main Screen">
+      <UniqueIdentifier>{655ee4b9-3e6d-4c0f-bf3c-2bc77983f661}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Login Screen">
+      <UniqueIdentifier>{8d43d547-67b3-44b5-b87b-71207cc71cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\OptionScreens">
+      <UniqueIdentifier>{1f00786d-197b-4d52-961a-827e719fecf1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project ATM System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowATMMainMenueScreen.h">
+      <Filter>Header Files\Screens\Main Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginScreen.h">
+      <Filter>Header Files\Screens\Login Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Screens\Main Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCheckBalanceScreen.h">
+      <Filter>Header Files\Screens\OptionScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowNormalWithdrawScreen.h">
+      <Filter>Header Files\Screens\OptionScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowQuickWithdrawScreen.h">
+      <Filter>Header Files\Screens\OptionScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowDepositScreen.h">
+      <Filter>Header Files\Screens\OptionScreens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

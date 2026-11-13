@@ -1,0 +1,38 @@
+﻿  Project ATM System.cpp
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(54,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(59,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(71,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(208,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(339,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsString.h(387,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsUtil.h(74,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(155,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%20ATM%20System.cpp')
+      D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(137,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(33,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(145,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(198,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%20ATM%20System.cpp')
+  
+D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\clsBankClient.h(309,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Project ATM System.vcxproj -> D:\مشاريع OOP\مشروع (ATM System)\Project ATM System\x64\Debug\Project ATM System.exe

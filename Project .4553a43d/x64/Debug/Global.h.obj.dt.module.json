@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project .4553a43d\\x64\\Debug\\Global.obj",
+            "outputs": [
+                "Project .4553a43d\\x64\\Debug\\Global.h.obj.dt.module.json",
+                "Project .4553a43d\\x64\\Debug\\Global.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
